@@ -6,12 +6,12 @@ import { getFirestore } from "firebase/firestore";
 
 // Your web app's Firebase configuration
 const firebaseConfig = {
-  apiKey: "AIzaSyBcDKx2W38BLwKrxN3YIOU6aeRzkHhCwKk",
-  authDomain: "busybuy-2fd65.firebaseapp.com",
-  projectId: "busybuy-2fd65",
-  storageBucket: "busybuy-2fd65.appspot.com",
-  messagingSenderId: "105667573429",
-  appId: "1:105667573429:web:70e16b67880ceaefe230fc",
+  apiKey: "AIzaSyB3eUxg3q6hQLcdhGUwHPqE9g6oEs5w05M",
+  authDomain: "ecommerce-ec751.firebaseapp.com",
+  projectId: "ecommerce-ec751",
+  storageBucket: "ecommerce-ec751.appspot.com",
+  messagingSenderId: "362280372914",
+  appId: "1:362280372914:web:36c25e58f17d125357d7ab",
 };
 
 // Initialize Firebase

@@ -9,7 +9,7 @@ This is a basic E-commerce React app that allows users to create an account, add
 - View and update the cart
 - Purchase products
 
-# Technologies Used
+## Technologies Used
 
 - React
 - Context Api

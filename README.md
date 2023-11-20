@@ -16,10 +16,4 @@ This is a basic E-commerce React app that allows users to create an account, add
 - React Router DOM
 - Cloud Firestore
 
-## Getting Started
-
-1. clone the repository:
-bash```
-
-```
-
+# ThankYou
